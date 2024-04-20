@@ -14,3 +14,4 @@ class HsvFilter:
         self.sSub = sSub
         self.vAdd = vAdd
         self.vSub = vSub
+        
